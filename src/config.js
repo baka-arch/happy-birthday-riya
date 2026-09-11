@@ -34,12 +34,12 @@ export const JOURNEY = {
  * Placeholder images from picsum are used until you do.
  */
 export const MEMORIES = [
-  { src: '/memories/1.jpeg', caption: 'Where it all began', date: 'Day one' },
-  { src: '/memories/2.jpeg', caption: 'That rainy evening', date: 'Monsoon' },
-  { src: '/memories/3.jpeg', caption: 'Your first white coat', date: 'Proudest day' },
-  { src: '/memories/4.jpeg', caption: 'Chai & chaos', date: 'Every Sunday' },
-  { src: '/memories/5.jpeg', caption: 'Golden hour, golden you', date: 'Last summer' },
-  { src: '/memories/6.jpeg', caption: 'Home is a person', date: 'Always' },
+  { src: 'memories/1.jpeg', caption: 'Where it all began', date: 'Day one' },
+  { src: 'memories/2.jpeg', caption: 'That rainy evening', date: 'Monsoon' },
+  { src: 'memories/3.jpeg', caption: 'Your first white coat', date: 'Proudest day' },
+  { src: 'memories/4.jpeg', caption: 'Chai & chaos', date: 'Every Sunday' },
+  { src: 'memories/5.jpeg', caption: 'Golden hour, golden you', date: 'Last summer' },
+  { src: 'memories/6.jpeg', caption: 'Home is a person', date: 'Always' },
 ]
 
 export const WISH = {
