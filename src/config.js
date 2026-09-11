@@ -48,6 +48,6 @@ export const WISH = {
   message:
     'You spend so much of your life caring for others. Today, let the world care for you. I love you — more than any words on a screen could hold.',
   buttonLabel: 'Tap to celebrate 🎂',
-  afterClick: 'Happy Birthday, my love. Here\'s to every year ahead — together.',
+  afterClick: 'Happy Birthday, my lovely Puchki <3. Here\'s to every year ahead — together.',
   signature: '— Yours, always',
 }
